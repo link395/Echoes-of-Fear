@@ -1,7 +1,8 @@
 # Echoes of Fear
 The final playable build of my 2024 horror game project.
 
-[WATCH THE PLAYTHROUGH HERE!!] (https://github.com/link395/Echoes-of-Fear/releases/download/v1.0/Echoes_of_Fear_Playthrough.mp4)
+[WATCH THE PLAYTHROUGH HERE!!] 
+(https://github.com/link395/Echoes-of-Fear/releases/download/v1.0/Echoes_of_Fear_Playthrough.mp4)
 
 
 Echo wakes up in his worst nightmare: his own home, now crawling with monsters.
